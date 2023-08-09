@@ -28,6 +28,7 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg?short_path=e1db5f1" width="40" alt="typescript"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" alt="javascript"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40" alt="Csharp"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" alt="C"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="40" alt="kotlin"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" width="40" alt="swift"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" alt="html"/>
@@ -43,9 +44,5 @@ Here are some ideas to get you started:
     <img src="https://github.com/RonElkaslasi/RonElkaslasi/assets/86993331/ea636c49-86d1-4b2f-a29a-eac31f9e84d6" width="40" alt="postman"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" alt="git"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" alt="bash"/>
-   
-
-    
-
-     
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="40" alt="android"/>
   </div>
